@@ -1,26 +1,27 @@
-- layout: right
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
+- layout: left
+  company: Sonawala Integrated Circuit Industries
+  link: http://sicitechnologies.com/
+  job_title: Part-Time Data Analyst 
+  dates: Mar 2020 - Present
   quote: >
-   Short description of the company (optional)
-  description: >
-    Description of role
-
-- layout: top
-  company: Company 2
-  job_title: Job title 1
-  dates: January 2014 - November 2016
-  description: >
-    Description of role
-
-- layout: top-right
-  company: Company 3
-  jobs:
-    - title: Job title 1
-      dates: February 2013 - December 2013
-    - title: Job title 2
-      dates: June 2012 - February 2013
-  description: >
-    Description of role
+   
+  description: | # this will include new lines to allow paragraphs
+    • Worked on a Government project called "Doodh Sanjivni". Created and managed the database for the real-world mobile application.
+    • providing solutions for small business vendors using ML techniques.
+    • Generating data, consolidating databases, supporting new integration projects, data feeds, design and mapping.  
+    • Performing analytics to improve business model, generate insights for the Catalogue, building reports and dashboards.  
+    • Identifying process improvement, analyze trends, patterns, helping curb deviations supporting data-driven decisions.  
+    
+- layout: left
+  company: Ganesh Infotech
+  link: http://www.ganeshinfotech.com/
+  job_title: Data Analyst Intern
+  dates: Dec 2018 - APR 2019
+  quote: >
+   
+  description: | # this will include new lines to allow paragraphs
+  
+    • Worked on real-time applications.
+    • Collected data and managed database using SQL for small businesses.
+    • Generated reports and dashboards using Python, Tableau, and PowerBI for meetings.
+    • Presented findings to the company members and clients narrating a story that solved business problems.
