@@ -1,13 +1,33 @@
-# Project template
 - layout: top-middle
-  name: Project 1
-  link: https://sproogen.github.io/modern-resume-theme
-  github: sproogen/modern-resume-theme
+  name: CricketViz
+  link: https://cricketviz.herokuapp.com/
+  github: https://github.com/Heet6498/CricketViz
   quote: >
-    Short overview of the project
-  description: >
-    Description about the work on/with the project
+   
+  description: | # this will include new lines to allow paragraphs
+     ABC
 
-- name: Project 2
-  description: >
-    Description about the work on/with the project
+- layout: top-middle
+  name: VizWar
+  link: 
+  github: https://github.com/Heet6498/VizWar
+  quote: >
+    
+  description: | # this will include new lines to allow paragraphs
+   ABC
+   
+- layout: top-middle
+  name: Cannabis Quality Prediction
+  link: 
+  github: 
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+      ABC
+      
+- layout: top-middle
+  name: Bank Loan classification
+  link: 
+  github: 
+  quote: >
+  description: | # this will include new lines to allow paragraphs
+    ABC
